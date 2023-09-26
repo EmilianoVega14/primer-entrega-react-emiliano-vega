@@ -1,7 +1,7 @@
 .contenedorNavBar {
-  background-color: rgb(43, 158, 43);
-  border: solid 3px rgb(177, 234, 177);
-  border-radius: 20px;
+  background-color: #4f772d;
+  border: solid 7px #8cb369;
+  border-radius: 16px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -9,7 +9,7 @@
 }
 .contenedorNavBar img {
   height: 100%;
-  border-radius: 20px 0 0 20px;
+  border-radius: 16px 0 0 16px;
 }
 .navBar_Items {
   width: 50%;
